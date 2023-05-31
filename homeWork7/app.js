@@ -3,11 +3,11 @@ const contentWrapper = document.querySelector('.content')
 const api = 'https://jsonplaceholder.typicode.com/posts'
 
 const fetchData = async () => {
-    const response = await fetch(api)
-    const data = await response.json()
-    console.log(data)
-
     try {
+        const response = await fetch(api)
+        const data = await response.json()
+        console.log(data)
+        
         data.map(card => {
             const wrapper = document.createElement('div')
             const img = document.createElement('img')
