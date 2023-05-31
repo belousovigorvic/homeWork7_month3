@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ruslan",
+    "age": 18,
+    "position": "Product-manager"
+  },
+  {
+    "name": "John",
+    "age": 23,
+    "position": "Backend-developer"
+  },
+  {
+    "name": "Igor",
+    "age": 28,
+    "position": "Frontend-developer"
+  },
+  {
+    "name": "Julia",
+    "age": 22,
+    "position": "Fullstack-developer"
+  },
+  {
+    "name": "Roman",
+    "age": 26,
+    "position": "Data-engineer"
+  },
+  {
+    "name": "Alena",
+    "age": 34,
+    "position": "HR-manager"
+  }
+]

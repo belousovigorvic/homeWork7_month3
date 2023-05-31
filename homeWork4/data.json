@@ -1,0 +1,8 @@
+{
+  "car": "BMW",
+  "model": "X7",
+  "price": "125000",
+  "power": 381,
+  "color": "black",
+  "electric": false
+}
